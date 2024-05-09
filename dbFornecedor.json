@@ -1,0 +1,16 @@
+{
+  "clientes": [
+    {
+      "id": "gadsjkldfh",
+      "nome": "Ilan Eschiezaro",
+      "telefone": "123456789",
+      "endereco": "Rua Brigadeiro"
+    },
+    {
+      "id": "66xmmM",
+      "nome": "joao",
+      "telefone": "11222333444",
+      "endereco": "rua das naçoes"
+    }
+  ]
+}

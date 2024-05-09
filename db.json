@@ -1,0 +1,19 @@
+{
+  "clientes": [
+    {
+      "id": "gadsjkldfh",
+      "nome": "Ilan Eschiezaro",
+      "telefone": "123456789"
+    },
+    {
+      "id": "kjgfsaldkjfha",
+      "nome": "Livia Gallafrio",
+      "telefone": "987654321"
+    },
+    {
+      "nome": "matheus",
+      "telefone": "22222222",
+      "id": "dwEUOw"
+    }
+  ]
+}
